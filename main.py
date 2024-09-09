@@ -1,4 +1,5 @@
 import tkinter as tk
+# new
 
 def on_button_click():
     label_out.config(text=f'Привет, {str(entry.get())}')
